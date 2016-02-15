@@ -1,0 +1,2 @@
+Text v souboru Text3.txt
+Zubek
